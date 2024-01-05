@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/bin/env python3
-# Modified by @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
+# Modified by @YS_BOTZ_01
+# Telegram Group: https://t.me/YS_SUPPORT_CHAT
 # Please give me credits if you use any codes from here.
 
 
@@ -36,5 +36,4 @@ with open('config.data', 'w') as setup:
 print(gr+"[+] Setup complete!")
 print(gr+"[+] Now you can run any tool!")
 print(gr+"[+] Make sure to read README.md before using this tool.")
-print(gr+"[+] https://github.com/AbirHasan2005/TelegramScraper/blob/master/README.md")
-print("\033[92m[+] Telegram Group: \033[96mhttp://t.me/linux_repo\033[0m")
+print(gr+"[+] https://t.me/YS_BOTZ_UPDATE")
